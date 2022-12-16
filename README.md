@@ -1,9 +1,9 @@
 
 
 
-<!--
-![](https://raw.githubusercontent.com/rahulunair/github-stats/master/generated/languages.svg)
 
+![](https://raw.githubusercontent.com/rahulunair/github-stats/master/generated/languages.svg)
+<!--
 **rahulunair/rahulunair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
